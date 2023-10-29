@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-For 6 we were tasked with creating two models, running them 100x each and doing this concurrently and sequentially.     
+For Week 6 we were tasked with creating two models, running them 100x each and doing this concurrently and sequentially.     
 
 For this project we leveraged the linear regression model from GoML. We created a Batch Gradient Ascent version and a Stochastic Gradient Ascent version.
 
